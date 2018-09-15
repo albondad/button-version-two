@@ -7,7 +7,7 @@ class App extends Component {
 
         //setting up state
         this.state = {
-            clicks: 40,
+            clicks: 0,
             buttons: [],
             hiddenSpecialButtons: [],
             visibleSpecialButtons: [],

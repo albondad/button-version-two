@@ -10,7 +10,7 @@ class Button extends Component {
             style: style,
             onClickFunction: onFlickFunction,
             buttonText: buttonText,
-            link: link,
+            link: undefined,
         }
     }
     render() {

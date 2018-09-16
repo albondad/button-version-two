@@ -87,7 +87,7 @@ class App extends Component {
         console.log(((this.state.clicks+1)%5==0) && this.state.clicks!=0 && this.state.hiddenSpecialButtons.length!=0 && this.state.showSpecialButtons);
         if (((this.state.clicks+1)%5==0) && this.state.clicks!=0 && this.state.hiddenSpecialButtons.length!=0 && this.state.showSpecialButtons) {
             this.state.visibleSpecialButtons.push(this.state.hiddenSpecialButtons[randomIndex]);
-            this.state.hiddenSpecialButtons.splice(randomIndex, 1);
+            //this.state.hiddenSpecialButtons.splice(randomIndex, 1);
         }
     }
     getStyle() {

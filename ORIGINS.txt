@@ -1,3 +1,3 @@
-AUTHOR: Juan Alejandro Dominguez Bondad V
+AUTHOR: Al Bondad
 START DATE: September 9, 2018
-DESCRIPTION: playing around with ReactJS and made this
+DESCRIPTION: This was a project where I was just playing around with ReactJS and made a simple button clicker.
